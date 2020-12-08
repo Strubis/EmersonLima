@@ -1,0 +1,1 @@
+Diretório para os exercícios feitos na linguagem C
