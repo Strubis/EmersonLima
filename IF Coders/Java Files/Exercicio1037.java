@@ -18,7 +18,7 @@ public class Exercicio1037 {
     }
     
     private static void intervalo( double n ){
-        if( n < 0 ){
+        if( n < 0 || n > 100 ){
             System.out.println("Fora de intervalo");
             return;
         }
